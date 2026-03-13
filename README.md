@@ -1,3 +1,8 @@
+---
+layout: default
+title: PurrFit Timer Support
+---
+
 # PurrFit Timer Support 🐾
 
 Welcome to the **PurrFit Timer** support page.
@@ -38,7 +43,7 @@ No. PurrFit Timer does **not collect, store, or transmit any personal data.**
 
 You can read the full privacy policy here:
 
-[Privacy Policy](privacy.md)
+[Privacy Policy](privacy.html)
 
 ---
 

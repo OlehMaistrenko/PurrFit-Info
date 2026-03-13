@@ -1,3 +1,9 @@
+---
+layout: default
+title: Privacy Policy – PurrFit Timer
+permalink: /privacy.html
+---
+
 # Privacy Policy for PurrFit Timer
 
 **Effective date:** March 13, 2026
